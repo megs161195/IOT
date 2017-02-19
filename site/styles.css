@@ -1,13 +1,19 @@
-.navbar-brand h1
-{
-   text-decoration: none;
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
 }
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
 #header-nav{
 	background-color: grey;
 	border-radius: 0;
 	border: 0;
 }
-
 
 #header2
 {
