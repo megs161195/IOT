@@ -1,9 +1,12 @@
 .navbar-brand h1
 {
-   text-decoration: none;
+   text-decoration: none;}
+
+ .container{	
  	background-color: grey
 	margin-bottom: 0px
 	margin-top:0px;
+	height: 200px
 }
 #header2
 {
