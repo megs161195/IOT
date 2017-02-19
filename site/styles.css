@@ -1,12 +1,7 @@
 .navbar-brand h1
 {
    text-decoration: none;
- }
-#header-nav
-{
-	background-color: grey
-	border-top:1px solid black ;
-	width: 100%;
+ 	background-color: grey
 	margin-bottom: 0px
 	margin-top:0px;
 }
