@@ -41,13 +41,13 @@
 	text-align: center;
 }
 
-.col-md-12
+.col-md-12 .col-sm-12 .col-xs-12
 {
 	border-size: border-box;
 	height: 1000px;
 	margin-left: 20px;
+	margin-right: 20px;
 	background-color: grey;
-	margin:20px 20px 20px 20px;
 }
 
 #navlist
@@ -63,5 +63,5 @@
 	text-align: center;
 	margin-top: -3px;
 	border:3px solid black;
-	font-style: bold;
+	font-weight: bold;
 }
