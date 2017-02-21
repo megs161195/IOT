@@ -58,6 +58,18 @@ font-size:50px; }
 
 }
 
+.col-xs-12 
+{
+	border-size: border-box;
+	height: 1000px;
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: grey;
+
+}
+
+
 #navlist
 {
 	color: #951C49;
