@@ -25,13 +25,13 @@
 	margin-right: 15px;
 	background-color: transparent;
 	background-image: none;
-	border: 1px solid black;
+	border-color:solid black;
 	border-radius: 4px;
 }
 
  .icon-bar
 {
-	color: black;
+	background-color: black;
 }
 #header1
 {
