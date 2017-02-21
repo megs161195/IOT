@@ -10,7 +10,7 @@
 	}
 
 #header-nav{
-	background-color: silver;
+	background-color: grey;
 	border-radius: 0;
 	border: 3px solid black;
 	height: 100px;
@@ -46,5 +46,8 @@
 	border-size: border-box;
 	height: 1000px;
 	border: 4px solid black;
-	background-color: silver;
+	background-color: grey;
+	width: 80%;
+	margin-top: 20px;
+	padding: 10px 10px 10px 10px;
 }
