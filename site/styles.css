@@ -45,8 +45,7 @@
 {
 	border-size: border-box;
 	height: 1000px;
-	margin-right: 20px;
-	border: 3px solid black;
+	margin-left: 20px;
 	background-color: grey;
 	margin:20px 20px 20px 20px;
 }
@@ -54,5 +53,12 @@
 #navlist
 {
 	color: #951C49;
+	text-align: center;
+}
+
+.visible-xs span
+{
+	height: 25px;
+	border: 2px solid black;
 	text-align: center;
 }
