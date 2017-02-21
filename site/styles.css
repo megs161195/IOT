@@ -61,7 +61,7 @@
 	height: 40px;
 	border-size:border-box;
 	text-align: center;
-	margin-top: -2px;
-	border:2px solid black;
-	text-decoration: bold;
+	margin-top: -3px;
+	border:3px solid black;
+	font-style: bold;
 }
