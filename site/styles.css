@@ -11,9 +11,9 @@
 
 #header-nav{
 	background-color: grey;
-	border-radius: 0;
 	border: 3px solid black;
 	height: 100px;
+	margin-bottom: 0px;
 }
 
 .navbar-toggle{
@@ -53,7 +53,9 @@ font-size:50px; }
 	height: 1000px;
 	margin-left: 20px;
 	margin-right: 20px;
+	width: 90%;
 	background-color: grey;
+
 }
 
 #navlist
