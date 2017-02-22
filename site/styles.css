@@ -31,8 +31,7 @@
 
  .icon-bar
 {
-	background-color: black;
-}
+	color: black;}
 #header1
 {
 	text-align: center;
@@ -68,14 +67,11 @@ font-size:50px; }
 	text-align: center;
 }
 
-#nav-list a:hover {
-	background:#E7E7E7;
-}
-
 #collapsable-nav div
 {
 	height: 50px;
 	border-size:border-box;
+	width: 100%;
 	text-align: center;
 	margin-top: -3px;
 	border:3px solid black;
