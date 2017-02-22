@@ -56,6 +56,7 @@ font-size:50px; }
 	margin-right: 1%;
 	background-color: grey;
 	margin-bottom: 25px;
+	text-overflow: clip;
 
 }
 
@@ -77,4 +78,11 @@ font-size:50px; }
 	font-weight: bold;
 	padding-top: 10px;
 	font-size: 20px;
+}
+
+#chick
+{
+	border-top: 0px;
+	padding: 0px;
+	margin-top: 0px;
 }
