@@ -55,7 +55,7 @@ font-size:50px; }
 	margin-right: 1%;
 	background-color: grey;
 	margin-bottom: 25px;
-	text-overflow: clip;
+	overflow: auto;
 
 }
 
