@@ -60,11 +60,13 @@ font-size:50px; }
 }
 
 
-
-#nav-list
+.col-xs-12
 {
-	color: black;
-	text-align: center;
+border-size:border-box;
+overflow: scroll;
+width: 60%;
+margin-right: 20%;
+margin-left: 20%;
 }
 
 #collapsable-nav div
@@ -78,10 +80,7 @@ font-size:50px; }
 	font-weight: bold;
 	padding-top: 10px;
 	font-size: 20px;
+	text-align: center;
+	color: black;
 }
 
-#chicken
-{
-	margin-top: 0px
-	padding-top:0px;
-}
