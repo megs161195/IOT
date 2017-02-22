@@ -62,10 +62,14 @@ font-size:50px; }
 
 
 
-#navlist
+#nav-list
 {
-	color: #951C49;
+	color: black;
 	text-align: center;
+}
+
+#nav-list a:hover {
+	background:#E7E7E7;
 }
 
 #collapsable-nav div
@@ -80,9 +84,3 @@ font-size:50px; }
 	font-size: 20px;
 }
 
-#chick
-{
-	border-top: 0px;
-	padding: 0px;
-	margin-top: 0px;
-}
