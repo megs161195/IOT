@@ -55,12 +55,12 @@ font-size:50px; }
 	margin-right: 1%;
 	background-color: grey;
 	margin-bottom: 25px;
-	overflow: hidden;
+	overflow: scroll;
 
 }
 
 
-.col-xs-12
+.col-xs-12 
 {
 border-size:border-box;
 overflow: scroll;
