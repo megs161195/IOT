@@ -55,7 +55,7 @@ font-size:50px; }
 	margin-right: 1%;
 	background-color: grey;
 	margin-bottom: 25px;
-	overflow: auto;
+	overflow: hidden;
 
 }
 
@@ -80,3 +80,8 @@ font-size:50px; }
 	font-size: 20px;
 }
 
+#chicken
+{
+	margin-top: 0px
+	padding-top:0px;
+}
