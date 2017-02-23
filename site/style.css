@@ -1,0 +1,16 @@
+.col-lg-6
+{
+border-size: border-box;
+height: 400px;
+background-color: silver
+}
+
+h1
+{
+	float: left;
+}
+
+h2
+{
+	float: right;
+}
