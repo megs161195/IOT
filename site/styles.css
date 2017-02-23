@@ -31,7 +31,9 @@
 
  .icon-bar span
 {
+	border: black;
 	color: black;}
+
 #header1
 {
 	text-align: center;
